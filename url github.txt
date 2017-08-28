@@ -1,0 +1,6 @@
+https://github.com/tcla2/Interactuando-con-Bases-de-Datos-final
+
+base de datos agenda
+
+tablas 
+usuarios y eventos
